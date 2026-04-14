@@ -1,11 +1,10 @@
 {
-  "name": "mc-ai-bot",
-  "version": "1.0.0",
-  "main": "bot.js",
   "dependencies": {
     "mineflayer": "latest",
     "prismarine-viewer": "latest",
-    "express": "latest"
-  },
-  "scripts": { "start": "node bot.js" }
+    "mineflayer-pathfinder": "latest",
+    "minecraft-data": "latest",
+    "express": "latest",
+    "axios": "latest"
+  }
 }
